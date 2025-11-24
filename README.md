@@ -1,2 +1,5 @@
 # python-vityarthi-codes
-This project repository contains all the work I completed for my semester project, following the submission guidelines provided by the course. The main goal of this project was to apply the concepts learned during the term and turn them into something practical, organized, and easy to understand for anyone reviewing the work. I
+This project repository contains all the 34 programs, the goal is to develop skills and implement all 34 required programs using python language.
+I’ve used Python to build the solution, focusing on writing clean code, handling inputs properly, and measuring performance (time and memory usage).
+This repository contains 34 questions with one report file and readme file.
+
